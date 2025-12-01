@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.1">
+  <diagram name="第 1 页" id="n6EVHMlyUCcdia9S26L-">
+    <mxGraphModel dx="689" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="htBwhRo5cWwLNKLDFzpL-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="针对非结构化文档中图表数据丢失的“视觉盲区”问题；&lt;div&gt;解决视觉特征与文本语义之间的“语义鸿沟”与大模型“幻觉”挑战&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="443.5" x="159" y="359" as="geometry" />
+        </mxCell>
+        <mxCell id="htBwhRo5cWwLNKLDFzpL-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="70" width="390" x="189" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="htBwhRo5cWwLNKLDFzpL-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;p&gt;&lt;font face=&quot;Times New Roman&quot;&gt;面向多模态文档的图表感知与跨模态语义融合机制研究&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="30" width="300" x="234" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="htBwhRo5cWwLNKLDFzpL-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;实现对金融研报、学术论文等复杂文档的深度理解&lt;/div&gt;&lt;div&gt;提升问答系统的准确性、可信度与用户体验&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="360" x="204" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="htBwhRo5cWwLNKLDFzpL-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="210" width="140" x="160" y="129" as="geometry" />
+        </mxCell>
+        <mxCell id="htBwhRo5cWwLNKLDFzpL-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="210" width="140" x="314" y="129" as="geometry" />
+        </mxCell>
+        <mxCell id="htBwhRo5cWwLNKLDFzpL-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="210" width="140" x="466" y="129" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
